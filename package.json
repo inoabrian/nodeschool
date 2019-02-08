@@ -1,0 +1,26 @@
+{
+  "name": "lyn",
+  "version": "1.0.0",
+  "description": "nodeschool solutions for learnyounode",
+  "main": "helloworld.js",
+  "dependencies": {
+    "bl": "^2.2.0"
+  },
+  "devDependencies": {
+    "@types/bl": "^2.1.0",
+    "@types/node": "^10.12.23"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inoabrian/nodeschool.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inoabrian/nodeschool/issues"
+  },
+  "homepage": "https://github.com/inoabrian/nodeschool#readme"
+}
