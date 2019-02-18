@@ -5,10 +5,12 @@
   "main": "helloworld.js",
   "dependencies": {
     "bl": "^2.2.0",
+    "express": "^4.16.4",
     "node-fetch": "^2.3.0"
   },
   "devDependencies": {
     "@types/bl": "^2.1.0",
+    "@types/express": "^4.16.1",
     "@types/node": "^10.12.23",
     "@types/node-fetch": "^2.1.6"
   },
